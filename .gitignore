@@ -1,0 +1,7 @@
+*.o
+*.exe
+*.log
+/modules/
+/.vscode/
+.DS_Store
+
